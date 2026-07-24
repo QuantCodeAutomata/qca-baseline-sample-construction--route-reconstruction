@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.env
+*.egg-info/
+dist/
+build/
+.DS_Store
+
+# Raw blockchain dumps — not committed (keep directory markers only)
+data/raw/*
+data/interim/*
+!data/raw/.gitkeep
+!data/interim/.gitkeep
+!data/fixtures/.gitkeep

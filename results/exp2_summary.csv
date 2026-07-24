@@ -1,0 +1,2 @@
+n_transactions,mean_shortfall_sco_bps,mean_shortfall_fvo_bps,mean_shortfall_gfvo_bps,median_shortfall_sco_bps,median_shortfall_fvo_bps,median_shortfall_gfvo_bps,total_shortfall_fvo_usdc,total_shortfall_gfvo_usdc
+49950,7.609709895146039,42.475011301207026,32.74640156054811,0.0,25.460129679964485,19.186633398903304,150269236.8932282,150164474.95934275
